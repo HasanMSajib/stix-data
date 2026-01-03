@@ -1,0 +1,2 @@
+Entry Id,unique_id,Packet Type,Subject,Packet Time,Start UTC,End UTC,Duration,Time Bin,Energy Bin,Pixel Mask,FITS
+56005,2510206890,Pixel data,Flare 2510201340,1/1/2026,2025-10-20T13:37:46,2025-10-20T13:44:40,414,4,4 – 25 keV,All Big,solo_L1_stix-sci-xray-cpd_20251020T133751-20251020T134454_V02_2510206890-52556.fits
